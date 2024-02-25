@@ -64,9 +64,7 @@ $_SESSION['NoOfpass']=$no;
     color:goldenrod!important; 
   }
 </style>
-<!-- <td><form action="bookBUS.php">
-<button type="submit" align="center" style="background-color: black; padding: 18px 50px; ">
-<span style=color:white;>Go back</span></a></td></button></form><br><br>'; -->
+
 <center>
 <form action="bookbus.php">
 <button type="submit" align="center" class="btn btn-custom" >Go Back</button></form>
