@@ -1,3 +1,4 @@
+<?php ?>
 <a href="busbookdone.php"><img src="icons8-home-100.png"/></a>
 <h1 align="center"><mark>Ticket Details</mark></h1>
 
