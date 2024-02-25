@@ -119,6 +119,6 @@ table#data {
 
 
 <table align='center'>
-<tr><!--<td><a href='pay.php'><button>Proceed</button></a></td>-->
+<tr>
   <td><a href='admin.php' class="btn-custom">Go Back </a></td>
  </tr> 
